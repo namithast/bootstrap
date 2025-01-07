@@ -1,0 +1,8 @@
+.carousel_image{
+    height: 400px;
+    object-fit: cover;
+}
+.product_img{
+    height: 250px;
+    object-fit: scale-down;
+}
